@@ -1,6 +1,6 @@
-let userAge = +prompt("Enter the year you were born");
-let userCity = prompt("Enter the city you live in");
-let userFavoriteSport = prompt("What's your favorite sport?");
+const userAge = +prompt("Enter the year you were born");
+const userCity = prompt("Enter the city you live in");
+const userFavoriteSport = prompt("What's your favorite sport?");
 
 let resultUserAge;
 let resultUserCity;
